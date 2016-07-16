@@ -1,0 +1,28 @@
+name: Feisty Devils Test Site
+favicon: null
+layout_spectrum: 0.759280955651775
+typography_spectrum: 0.8198467744514346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9146590519230813
+  lightness: 0.5019454662688076
+  saturation: 0.19136775308288634
+  rhythmicContrast: 0.36744591360911727
+purpose: []
